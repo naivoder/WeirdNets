@@ -1,0 +1,6 @@
+[submodule "LaplacianNet"]
+	path = LaplacianNet
+	url = https://github.com/naivoder/LaplacianNet
+[submodule "VitCapsuleNet"]
+	path = VitCapsuleNet
+	url = https://github.com/naivoder/VitCapsuleNet
