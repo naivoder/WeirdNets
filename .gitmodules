@@ -4,3 +4,6 @@
 [submodule "VitCapsuleNet"]
 	path = VitCapsuleNet
 	url = https://github.com/naivoder/VitCapsuleNet
+[submodule "SubtractNet"]
+	path = SubtractNet
+	url = git@github.com:naivoder/SubtractNet.git
